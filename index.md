@@ -3,6 +3,9 @@ layout: page
 title: Ziling Cheng
 subtitle: McGill University | Mila
 ---
+img {
+  float: right;
+}
 <img src="assets/img/zcheng.png" alt="" width="250" class="center"/>
 
 # About Me
