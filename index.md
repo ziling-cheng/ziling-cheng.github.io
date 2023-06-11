@@ -5,7 +5,8 @@ subtitle: McGill University | Mila
 ---
 
 
-<img src="assets/img/zcheng.png" align="right" alt="" width="250" class="center"/>
+<img src="assets/img/zcheng.png" align="right" alt="" width="250"/>
+
 # About Me
 
 I am a final-year undergraduate student in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. I am also an undergraduate researcher at [Quebec AI Institute (Mila)](https://mila.quebec/en/) and [McGill NLP group](https://mcgill-nlp.github.io/), supervised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/), and [Rahul Aralikatte](http://www.rahular.com/). Currently, my research is primarily focused on text generation and efficient pre-training. I am actively exploring other interesting topics. 
