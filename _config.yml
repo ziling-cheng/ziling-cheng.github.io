@@ -20,8 +20,8 @@ author: Ziling Cheng
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Publications: "publication"
+  Blogs: "blogs"
+  MAIS Bootcamp: "mais202"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
