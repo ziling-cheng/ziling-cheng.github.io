@@ -20,7 +20,7 @@ author: Ziling Cheng
 ###############################################
 
 navbar-links:
-  Blogs: "index"
+  Blogs: "blogs"
   MAIS Bootcamp: "mais202"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
