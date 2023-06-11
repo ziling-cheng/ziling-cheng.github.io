@@ -21,7 +21,7 @@ author: Ziling Cheng
 
 navbar-links:
   About Me: "aboutme"
-  Publications: "publications"
+  Publications: "publication"
 #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
@@ -50,16 +50,16 @@ round-avatar: false
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "ziling.cheng@mail.mcgill.com"
+  email: "ziling.cheng@mail.mcgill.ca"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
   facebook: deanattali
-  github: "https://github.com/ziling-cheng/"
+  github: ziling-cheng
   twitter: daattali
   patreon: DeanAttali
   youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
- linkedin: "https://www.linkedin.com/in/ziling-cheng-562968203/"
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -95,7 +95,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-# url-pretty: "MyWebsite.com"
+url-pretty: "MyWebsite.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
@@ -140,6 +140,7 @@ footer-hover-col: "#0085A1"
 
 # Alternatively, the navbar, footer, and page background can be set to an image
 # instead of colour
+
 #navbar-img: "/assets/img/bgimage.png"
 #footer-img: "/assets/img/bgimage.png"
 #page-img: "/assets/img/bgimage.png"
@@ -291,4 +292,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
