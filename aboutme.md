@@ -1,16 +1,16 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Mila | McGill University
 ---
+### About Me
+I am a final-year undergraduate student in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. I am also an undergraduate researcher at [Quebec AI Institute (Mila)](https://mila.quebec/en/) and [McGill University](https://mcgill-nlp.github.io/), supervised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/), and [Rahul Aralikatte](http://www.rahular.com/). Currently, my research primarily centers around text generation and efficient pre-training. I am actively exploring other interesting topics. For the academic year 2023-2024, I will serve as a Technical Project Manager at [McGill Artificial Intelligence Society](https://mcgillai.com/).
 
-My name is Inigo Montoya. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
 
-What else do you need?
 
-### My story
+### Publication
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+- Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. Findings of ACL 2023
+
+  Rahul Aralikatte*,**Ziling Cheng***, Sumanth Doddapaneni, Jackie Chi Kit Cheung
