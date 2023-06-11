@@ -5,7 +5,7 @@ subtitle: McGill University | Mila
 ---
 
 
-<img src="assets/img/zcheng.png" align="right" alt="" width="250"/>
+<img src="assets/img/zcheng.png" align="right" alt="" width="200"/>
 
 # About Me
 
