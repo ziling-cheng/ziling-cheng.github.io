@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. Findings of ACL 2023
-subtitle: New Paper!
+subtitle: New Paper
 tags: [test]
 comments: true
 ---
