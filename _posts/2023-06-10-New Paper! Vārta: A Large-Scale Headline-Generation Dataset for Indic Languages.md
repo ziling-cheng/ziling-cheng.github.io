@@ -12,7 +12,7 @@ In this paper, we mainly introduce a large-scale headline-generation dataset for
 
 <center> <img src="https://drive.google.com/uc?id=1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK" width="1000"></center>
 
-## ACL 2023 Spotlight
+## ACL 2023 Spotlight:
 <center> <img src="https://drive.google.com/uc?id=1Iqd5vXfyqkHntI8GjNwT8vchQHPLuapD" width="1000"></center>
 
 ## Recorded Presentation:
