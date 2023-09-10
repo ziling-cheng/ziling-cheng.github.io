@@ -13,4 +13,4 @@ In this paper, we mainly introduce a large-scale headline-generation dataset for
 ## Recorded Presentation
 
 ## ACL 2023 Spotlight
-![myimg](assets/img/varta_spotlight.pdf){: width="250px" style="float:right; padding:15px" }
+![myimg](assets/img/spotlight-slide.pdf){: width="250px" style="float:right; padding:15px" }
