@@ -16,5 +16,5 @@ Previously, I participated in the [Google CS research mentorship program](https:
 
 
 # Publications
-- [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. <a href="https://arxiv.org/abs/2305.05858"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/rahular/varta"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-06-10-New-Paper!-V%C4%81rta-A-Large-Scale-Headline-Generation-Dataset-for-Indic-Languages/) <br> Findings of ACL 2023 <br>
+- [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. <a href="https://arxiv.org/abs/2305.05858"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/rahular/varta"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-06-10-New-Paper!-V%C4%81rta-A-Large-Scale-Headline-Generation-Dataset-for-Indic-Languages/)<a href=""><img src="assets/img/poster.png" alt="" width="20"/></a> <br> Findings of ACL 2023 <br>
   Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, Jackie Chi Kit Cheung
