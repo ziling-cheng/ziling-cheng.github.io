@@ -10,12 +10,12 @@ In this paper, we mainly introduce a large-scale headline-generation dataset for
 
 ## Recorded Presentation:
 <video height="300px" controls="controls">
-        <source src="https://drive.google.com/uc?id=1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-" />
+        <source src="[https://drive.google.com/uc?id=1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-](https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link)"  type="video/mp4"/>
 </video>
 
 ## Poster:
 
-<center> <img src="https://drive.google.com/uc?id=1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK" width="400"></center>
+<center> <img src="https://drive.google.com/uc?id=1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK" width="800"></center>
 
 ## ACL 2023 Spotlight
-<center> <img src="https://drive.google.com/uc?id=1Iqd5vXfyqkHntI8GjNwT8vchQHPLuapD" width="400"></center>
+<center> <img src="https://drive.google.com/uc?id=1Iqd5vXfyqkHntI8GjNwT8vchQHPLuapD" width="800"></center>
