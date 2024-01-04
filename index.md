@@ -17,4 +17,8 @@ Previously, I participated in the [Google CS research mentorship program](https:
 
 # Publications
 - [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. <a href="https://arxiv.org/abs/2305.05858"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/rahular/varta"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-06-10-New-Paper!-V%C4%81rta-A-Large-Scale-Headline-Generation-Dataset-for-Indic-Languages/)<a href="https://drive.google.com/file/d/1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK/view?usp=drive_link"><img src="assets/img/poster.png" alt="" width="20"/></a><a href="https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link"><img src="assets/img/video.png" alt="" width="20"/></a> <br> Findings of ACL 2023 <br>
-  Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, Jackie Chi Kit Cheung
+  Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, and Jackie Chi Kit Cheung
+
+- [McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases. <a href="[https://arxiv.org/abs/2305.05858](https://aclanthology.org/2023.conll-babylm.18/)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/ziling-cheng/babylm/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-06-10-New-Paper!-V%C4%81rta-A-Large-Scale-Headline-Generation-Dataset-for-Indic-Languages/)<a href="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing"><img src="assets/img/poster.png" alt="" width="20"/></a> <br> Proceedings of the BabyLM Challenge at CoNLL 2023 <br>
+**Ziling Cheng**, Rahul Aralikatte, Ian Porada, Cesare Spinoso-Di Piano, and Jackie Chi Kit Cheung
+
