@@ -14,4 +14,4 @@ and we showed that inducing structural biases in the model through part-of-
 speech trees yields modest benefits.
 
 ## Poster:
-<center> <img src="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=drive_link" width="1000"></center>
+<center> <img src="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing" width="1000"></center>
