@@ -9,10 +9,8 @@ subtitle: McGill University | Mila
 
 ![myimg](assets/img/zcheng.png){: width="250px" style="float:right; padding:15px" }
 
-I'm a final-year undergraduate student in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. I am also an undergraduate research assistant at [Quebec AI Institute (Mila)](https://mila.quebec/en/) and [McGill NLP group](https://mcgill-nlp.github.io/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/), and [Dr. Rahul Aralikatte](http://www.rahular.com/). My research interests center around efficient and trustworthy AI, with a broader interest in the intersection of Natural Language Processing and Machine Learning.
+I'm a first-year Master's student in Computer Science at Mcgill University and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research interests center around efficient and trustworthy AI, with a broader interest in the intersection of Natural Language Processing and Machine Learning.
 
-
-Previously, I participated in the [Google CS research mentorship program](https://research.google/outreach/csrmp/). For the academic year 2023-2024, I am serving as a Technical Project Manager at [McGill Artificial Intelligence Society (MAIS)](https://mcgillai.com/). The content that I develop for the MAIS bootcamp will be available [here](https://ziling-cheng.github.io/teaching.html) after this bootcamp iteration.
 
 
 # Publications
