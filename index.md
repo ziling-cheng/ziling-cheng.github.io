@@ -7,7 +7,7 @@ subtitle: McGill University | Mila
 # About Me
 
 
-![myimg](assets/img/zcheng.png){: width="250px" style="float:right; padding:15px" }
+![myimg](assets/img/IMG_9407.JPG){: width="250px" style="float:right; padding:15px" }
 
 I'm a first-year Master's student in Computer Science at Mcgill University and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research interests center around efficient and trustworthy AI, with a broader interest in the intersection of Natural Language Processing and Machine Learning.
 
