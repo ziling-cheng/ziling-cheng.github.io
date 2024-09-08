@@ -11,7 +11,7 @@ subtitle: McGill University | Mila
 
 I'm a first-year Master's student in Computer Science at Mcgill University and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research interests center around efficient and trustworthy AI, with a broader interest in the intersection of Natural Language Processing and Machine Learning.
 
-Previously, I participated in the [Google CS research mentorship program](https://research.google/outreach/csrmp/). For Fall 2024, I served as a Technical Project Manager at [McGill Artificial Intelligence Society (MAIS)](https://mcgillai.com/).
+Previously, I participated in the [Google CS research mentorship program](https://research.google/outreach/csrmp/). In Fall 2024, I served as a Technical Project Manager at [McGill Artificial Intelligence Society (MAIS)](https://mcgillai.com/).
 
 
 # Publications
