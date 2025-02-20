@@ -21,7 +21,7 @@ Previously, I participated in the [Google CS research mentorship program](https:
 
 
 # Publications
-- [Stochastic Parakeets, Peacocks, and Penguins: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization <a href=""><img src="assets/img/page.png" alt="" width="20"/></a><a href=""><img src="assets/img/github-mark.png" alt="" width="20"/></a>]()<a href=""><img src="" alt="" width="20"/></a> <br> In submission to ACL 2025 <br>
+- [Stochastic Parakeets, Peacocks, and Penguins: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization <a href="assets/img/class-based-generalization.pdf"><img src="assets/img/page.png" alt="" width="20"/></a><a href=""><img src="assets/img/github-mark.png" alt="" width="20"/></a>]()<a href=""><img src="" alt="" width="20"/></a> <br> In submission to ACL 2025 <br>
 **Ziling Cheng\***, Meng Cao\*, Marc-Antoine Rondeau, and Jackie Chi Kit Cheung
   
 - [McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases. <a href="https://aclanthology.org/2023.conll-babylm.18/"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/ziling-cheng/babylm/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-12-06-New-Paper!-McGill-BabyLM-Shared-Task-Submission-The-Effects-of-Data-Formatting-and-Structural-Biases/)<a href="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing"><img src="assets/img/poster.png" alt="" width="20"/></a> <br> In Proceedings of the BabyLM Challenge at CoNLL 2023 <br>
