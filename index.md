@@ -9,19 +9,16 @@ subtitle: McGill University | Mila
 
 ![myimg](assets/img/IMG_9407.JPG){: width="200px" style="float:right; padding:15px" }
 
-Hello! I'm a first-year Master's student in Computer Science at Mcgill University and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research interests center around trustworthy AI
-1. Reliability: Abstractions in Reasoning
-   - How do large language models (LLMs) form and use abstractions?
-   - How do these abstractions interact with generalization and memorization?   
-2. Robustness: Hallucinations
-   - What systematic patterns exist in hallucinations?
-   - How can we attribute and mitigate these failure modes in LLMs to make models more robust?
+Hello! I'm a Research MSc student in Computer Science at Mcgill University and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research focuses on reasoning, hallucination, evaluation and interpretability in large language models, aiming to better understand and improve their behaviour.
 
-Previously, I participated in the [Google CS research mentorship program](https://research.google/outreach/csrmp/). In Fall 2024, I served as a Technical Project Manager at [McGill Artificial Intelligence Society (MAIS)](https://mcgillai.com/).
+For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading Group](https://mcgill-nlp.github.io/reading-group/) and co-instructing the [McGill Computational and Data Systems Initiative (CDSI) LLM & Applications workshop series](https://www.mcgill.ca/cdsi/training/workshops). Previously, I was a Research Fellow at RBC Borealis, where I was mentored by Leila Pishdad and Yanshuai Cao.
 
 
-# Publications and Manuscripts
-- [Stochastic Parakeets, Peacocks, and Penguins: Irrelevant Context Hallucinations Reveal Class-Based (Mis)Generalization <a href="https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing)<a href=""><img src="" alt="" width="20"/></a> <br> In submission to ACL 2025 <br>
+# Publications
+- [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation <a href="[https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing](https://arxiv.org/abs/2505.23701)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="[https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing](https://arxiv.org/abs/2505.23701)"><img src="assets/img/github-mark.png" alt="" width="20"/></a>]([https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing](https://arxiv.org/abs/2505.23701))<a href=""><img src="" alt="" width="20"/></a> <br> EMNLP 2025 <br>
+**Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
+  
+- [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis) Generalization in LLMs <a href="[https://drive.google.com/file/d/1Ax8bh1mi6d_qS3R-_oRwUy_gTV3X1Kh9/view?usp=sharing](https://aclanthology.org/2025.acl-long.1458/)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://aclanthology.org/2025.acl-long.1458/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://aclanthology.org/2025.acl-long.1458/)<a href=""><img src="" alt="" width="20"/></a> <br> ACL 2025 <br>
 **Ziling Cheng\***, Meng Cao\*, Marc-Antoine Rondeau, and Jackie Chi Kit Cheung
   
 - [McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases. <a href="https://aclanthology.org/2023.conll-babylm.18/"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/ziling-cheng/babylm/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-12-06-New-Paper!-McGill-BabyLM-Shared-Task-Submission-The-Effects-of-Data-Formatting-and-Structural-Biases/)<a href="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing"><img src="assets/img/poster.png" alt="" width="20"/></a> <br> In Proceedings of the BabyLM Challenge at CoNLL 2023 <br>
