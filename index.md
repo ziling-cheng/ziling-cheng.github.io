@@ -15,8 +15,9 @@ For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading
 
 
 # Publications
-- [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation <a href="[https://arxiv.org/abs/2505.23701](https://arxiv.org/abs/2505.23701)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://arxiv.org/abs/2505.23701"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://arxiv.org/abs/2505.23701)<a href=""><img src="" alt="" width="20"/></a> <br> EMNLP 2025 <br>
-**Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
+- [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation](https://arxiv.org/abs/2505.23701) [![arXiv](assets/img/page.png)](https://arxiv.org/abs/2505.23701) [![GitHub](assets/img/github-mark.png)](https://arxiv.org/abs/2505.23701) <br>
+  EMNLP 2025 <br>
+  **Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
   
 - [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis) Generalization in LLMs <a href="[https://aclanthology.org/2025.acl-long.1458/](https://aclanthology.org/2025.acl-long.1458/)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://aclanthology.org/2025.acl-long.1458/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://aclanthology.org/2025.acl-long.1458/)<a href=""><img src="" alt="" width="20"/></a> <br> ACL 2025 <br>
 **Ziling Cheng\***, Meng Cao\*, Marc-Antoine Rondeau, and Jackie Chi Kit Cheung
