@@ -15,19 +15,25 @@ For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading
 
 
 # Publications
+# Publications
 
-- [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation](https://arxiv.org/abs/2505.23701) <img src="assets/img/page.png" alt="" width="20"/></a><a href="https://arxiv.org/abs/2505.23701"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://arxiv.org/abs/2505.23701)<a href=""><img src="" alt="" width="20"/></a> <br> EMNLP 2025 <br>
-**Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
-  
-- [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis) Generalization in LLMs <a href="[https://aclanthology.org/2025.acl-long.1458/](https://aclanthology.org/2025.acl-long.1458/)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://aclanthology.org/2025.acl-long.1458/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://aclanthology.org/2025.acl-long.1458/)<a href=""><img src="" alt="" width="20"/></a> <br> ACL 2025 <br>
-**Ziling Cheng\***, Meng Cao\*, Marc-Antoine Rondeau, and Jackie Chi Kit Cheung
-  
-- [McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases. <a href="https://aclanthology.org/2023.conll-babylm.18/"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/ziling-cheng/babylm/"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-12-06-New-Paper!-McGill-BabyLM-Shared-Task-Submission-The-Effects-of-Data-Formatting-and-Structural-Biases/)<a href="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing"><img src="assets/img/poster.png" alt="" width="20"/></a> <br> In Proceedings of the BabyLM Challenge at CoNLL 2023 <br>
-**Ziling Cheng**, Rahul Aralikatte, Ian Porada, Cesare Spinoso-Di Piano, and Jackie Chi Kit Cheung
+* [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation](https://arxiv.org/abs/2505.23701) <a href="https://arxiv.org/abs/2505.23701"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
+  EMNLP 2025 <br>
+  **Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
 
-- [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages.](https://aclanthology.org/2023.findings-acl.215/) [![ACL Paper](assets/img/page.png)](https://aclanthology.org/2023.findings-acl.215/) [![GitHub](assets/img/github-mark.png)](https://github.com/rahular/varta) [![Poster](assets/img/poster.png)](https://drive.google.com/file/d/1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK/view?usp=drive_link) [![Video](assets/img/video.png)](https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link) <br>
-Findings of ACL 2023 <br>
-Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, and Jackie Chi Kit Cheung
+* [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis) Generalization in LLMs](https://aclanthology.org/2025.acl-long.1458/) <a href="https://aclanthology.org/2025.acl-long.1458/"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
+  ACL 2025 <br>
+  **Ziling Cheng***, Meng Cao*, Marc-Antoine Rondeau, and Jackie Chi Kit Cheung
+
+* [McGill BabyLM Shared Task Submission: The Effects of Data Formatting and Structural Biases](https://ziling-cheng.github.io/2023-12-06-New-Paper!-McGill-BabyLM-Shared-Task-Submission-The-Effects-of-Data-Formatting-and-Structural-Biases/) <a href="https://aclanthology.org/2023.conll-babylm.18/"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com/ziling-cheng/babylm/"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a><a href="https://drive.google.com/file/d/1w5PYlDMXGDRBAEVBN2rtk6HrJDYwgiCz/view?usp=sharing"><img src="assets/img/poster.png" alt="Poster" width="20"/></a> <br>
+  In Proceedings of the BabyLM Challenge at CoNLL 2023 <br>
+  **Ziling Cheng**, Rahul Aralikatte, Ian Porada, Cesare Spinoso-Di Piano, and Jackie Chi Kit Cheung
+
+* [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages](https://aclanthology.org/2023.findings-acl.215/) <a href="https://aclanthology.org/2023.findings-acl.215/"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com/rahular/varta"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a><a href="https://drive.google.com/file/d/1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK/view?usp=drive_link"><img src="assets/img/poster.png" alt="Poster" width="20"/></a><a href="https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link"><img src="assets/img/video.png" alt="Video" width="20"/></a> <br>
+  Findings of ACL 2023 <br>
+  Rahul Aralikatte*, **Ziling Cheng***, Sumanth Doddapaneni, and Jackie Chi Kit Cheung
+  
+
 
 
 
