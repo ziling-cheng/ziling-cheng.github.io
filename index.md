@@ -15,6 +15,7 @@ For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading
 
 
 # Publications
+
 - [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation](https://arxiv.org/abs/2505.23701) <img src="assets/img/page.png" alt="" width="20"/></a><a href="https://arxiv.org/abs/2505.23701"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://arxiv.org/abs/2505.23701)<a href=""><img src="" alt="" width="20"/></a> <br> EMNLP 2025 <br>
 **Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
   
@@ -27,9 +28,7 @@ For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading
 - [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages.](https://aclanthology.org/2023.findings-acl.215/) [![ACL Paper](assets/img/page.png)](https://aclanthology.org/2023.findings-acl.215/) [![GitHub](assets/img/github-mark.png)](https://github.com/rahular/varta) [![Poster](assets/img/poster.png)](https://drive.google.com/file/d/1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK/view?usp=drive_link) [![Video](assets/img/video.png)](https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link) <br>
 Findings of ACL 2023 <br>
 Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, and Jackie Chi Kit Cheung
-  
-- [Vārta: A Large-Scale Headline-Generation Dataset for Indic Languages. <a href="[https://arxiv.org/abs/2305.05858](https://aclanthology.org/2023.findings-acl.215/)"><img src="assets/img/page.png" alt="" width="20"/></a><a href="https://github.com/rahular/varta"><img src="assets/img/github-mark.png" alt="" width="20"/></a>](https://ziling-cheng.github.io/2023-06-10-New-Paper!-V%C4%81rta-A-Large-Scale-Headline-Generation-Dataset-for-Indic-Languages/)<a href="https://drive.google.com/file/d/1ufYouhPvNmgTfQVjx65FGN-eIosD4qOK/view?usp=drive_link"><img src="assets/img/poster.png" alt="" width="20"/></a><a href="https://drive.google.com/file/d/1EgZjl_qHPLIslHZTOTAnl3wjGvDluRt-/view?usp=drive_link"><img src="assets/img/video.png" alt="" width="20"/></a> <br> In Findings of ACL 2023 <br>
-  Rahul Aralikatte\*, **Ziling Cheng\***, Sumanth Doddapaneni, and Jackie Chi Kit Cheung
+
 
 
 
