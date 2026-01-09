@@ -20,7 +20,7 @@ For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading
   EMNLP 2025 <br>
   **Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
   
-*[LLM Explainability in Handbook of Human-Centered Artificial Intelligence (Xu, W. (eds)).](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)<a href="[https://arxiv.org/abs/2505.23701](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
+* [LLM Explainability in Handbook of Human-Centered Artificial Intelligence (Xu, W. (eds)).](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)<a href="[https://arxiv.org/abs/2505.23701](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
   Springer. <br>
  Ines Arous, Khaoula Chehbouni, **Ziling Cheng**, Bonaventure Dossou
 
