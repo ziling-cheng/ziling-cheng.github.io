@@ -9,17 +9,20 @@ subtitle: McGill University | Mila
 
 ![myimg](assets/img/IMG_9407.JPG){: width="200px" style="float:right; padding:15px" }
 
-Hello! I'm a Research MSc student in Computer Science at [Mcgill University](https://www.mcgill.ca/) and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research focuses on reasoning, hallucination, evaluation and interpretability in large language models, aiming to better understand and improve their behaviour.
+Hello! I'm a Research MSc student in Computer Science at [Mcgill University](https://www.mcgill.ca/) and [Quebec AI Institute (Mila)](https://mila.quebec/en/), advised by [Prof. Jackie Chi Kit Cheung](https://www.cs.mcgill.ca/~jcheung/). Before my master’s studies, I completed my Bachelor's degree in [Joint Honours Mathematics and Computer Science](https://www.mcgill.ca/mathstat/undergraduate/programs/b-sc/joint-honours-mathematics-and-computer-science-b-sc) at McGill University. My research focuses on reasoning, hallucination, evaluation, and interpretability in large language models, with the goal of better understanding and improving their behaviour and efficiency.
 
 For the 2025-2026 academic year, I am co-organizing the [Mila/McGill NLP Reading Group](https://mcgill-nlp.github.io/reading-group/) and co-instructing the [McGill Computational and Data Systems Initiative (CDSI) LLM & Applications workshop series](https://www.mcgill.ca/cdsi/training/workshops). Previously, I was a Research Fellow at [RBC Borealis](https://rbcborealis.com/), where I was mentored by Leila Pishdad and Yanshuai Cao.
 
 
 # Publications
-# Publications
 
 * [Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation](https://arxiv.org/abs/2505.23701) <a href="https://arxiv.org/abs/2505.23701"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
   EMNLP 2025 <br>
   **Ziling Cheng**, Meng Cao, Leila Pishdad, Yanshuai Cao, and Jackie Chi Kit Cheung
+  
+*[LLM Explainability in Handbook of Human-Centered Artificial Intelligence (Xu, W. (eds)).](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)<a href="[https://arxiv.org/abs/2505.23701](https://link.springer.com/rwe/10.1007/978-981-97-8440-0_85-1)"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
+  Springer. <br>
+ Ines Arous, Khaoula Chehbouni, **Ziling Cheng**, Bonaventure Dossou
 
 * [Stochastic Chameleons: Irrelevant Context Hallucinations Reveal Class-Based (Mis) Generalization in LLMs](https://aclanthology.org/2025.acl-long.1458/) <a href="https://aclanthology.org/2025.acl-long.1458/"><img src="assets/img/page.png" alt="Paper" width="20"/></a><a href="https://github.com"><img src="assets/img/github-mark.png" alt="GitHub" width="20"/></a> <br>
   ACL 2025 <br>
